@@ -19,7 +19,7 @@ public class Log_Inpages
 		System.out.println("good Anuprita Raut123");
 		System.out.println("good morning");
 		System.out.println("success");
-		System.out.println("hii Amit Kumar Pandey");
+		System.out.println("hii Amit Kumar Pandey.......");
 		  
 		
 	}
