@@ -26,6 +26,7 @@ public void practice1Test()
 {
 	System.out.println("good evening");
 	System.out.println("good morning");
-	System.out.println("Amit here"); 
+	System.out.println("Amit here........"); 
+	System.err.println(".......done");
 }
 }
