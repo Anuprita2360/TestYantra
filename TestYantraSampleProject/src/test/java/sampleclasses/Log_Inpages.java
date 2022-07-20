@@ -18,9 +18,14 @@ public class Log_Inpages
 		System.out.println("good evening");
 		System.out.println("good Anuprita Raut123");
 		System.out.println("good morning");
-		System.out.println("success");
-		  
-		
+		System.out.println("success");  
 	}
+@Test
 
+public void practice1Test()
+{
+	System.out.println("good evening");
+	System.out.println("good morning");
+	System.out.println("Amit here"); 
+}
 }
